@@ -9,7 +9,7 @@ This is a dataset was created as a personal project to learn scraping and to pro
 Dataset link:
 
 ```bash
-https://www.kaggle.com/datasets/abdullahorzan/moodify-dataset](https://www.kaggle.com/datasets/mdhamani/goodreads-books-100k
+https://www.kaggle.com/datasets/mdhamani/goodreads-books-100k
 ```
  
 ## Streamlit
